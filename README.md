@@ -1,4 +1,4 @@
-# Hass.io frp client
+# frp client
 
 A fast reverse proxy client for Hass.io to help you expose a home assistant or any other local service behind a NAT or firewall to the internet.
 
